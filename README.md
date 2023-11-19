@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @banana3864
+- 👀 I’m interested in Maths and Programming
+- 🌱 I’m currently learning Python & C++ & Programs Development
+- 📫 My Email Address: owen_0624@outlook.com
